@@ -1,5 +1,5 @@
 # chunk_checker
-Wee script to see if metrics is honestly reporting actual no of records stored
+Wee script to see if metrics is honestly reporting the actual no of records stored
 
 Install to $HOME/.local/bin
 chmod +x  chunk_checker.sh
@@ -16,4 +16,4 @@ Please select a search option:
 4) NTracking(anm)
 Enter your choice (1-4): 
 
-This will choose the requisite path tostart searching for all instances of record_store dirs and count the chunks in each directory
+This will choose the requisite path to start searching for all instances of record_store dirs and count the chunks in each directory
