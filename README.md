@@ -2,6 +2,7 @@
 Wee script to see if metrics is honestly reporting the actual no of records stored
 
 Install to $HOME/.local/bin
+
 chmod +x  chunk_checker.sh
 
 Run chunk_checker.sh
